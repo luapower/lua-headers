@@ -1,1 +1,3 @@
-lua-5.1.5 headers from http://www.lua.org/ (MIT license) used to compile Lua C modules.
+lua-headers 5.1.5 from http://www.lua.org/ (MIT license)
+
+used to compile Lua C modules.
