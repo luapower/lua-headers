@@ -1,0 +1,11 @@
+*
+!/bin/
+!/csrc/
+!/bin/mingw32/
+!/bin/linux32/
+!/media/
+
+!/lua-headers*
+!/csrc/
+!/csrc/lua/
+!/csrc/lua/**
