@@ -1,5 +1,6 @@
 ---
 project: lua-headers
+tagline: Lua C API headers
 ---
 
-Lua 5.1 headers, needed to compile Lua/C modules.
+Lua C API headers, needed to compile Lua/C modules.
