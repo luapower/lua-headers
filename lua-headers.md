@@ -1,5 +1,4 @@
 ---
-project: lua-headers
 tagline: Lua C API headers
 ---
 
